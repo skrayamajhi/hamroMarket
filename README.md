@@ -1,1 +1,1 @@
-This is our class project for Django.
+This is our class project for Django named hamroProject.
