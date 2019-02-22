@@ -1,1 +1,1 @@
-This is a readme file.
+This is our class project for Django.
